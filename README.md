@@ -11,6 +11,10 @@
 
 - 📄 Know about my experiences [https://niraj-portfolio.vercel.app/resume](https://niraj-portfolio.vercel.app/resume)
 
+---
+[![](https://visitcount.itsvg.in/api?id=NirajKrTiwari&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nirajkumartiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nirajkumartiwari/" height="30" width="40" /></a>
@@ -29,7 +33,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NirajKrTiwari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=NirajKrTiwari&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
