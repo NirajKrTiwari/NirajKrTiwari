@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://niraj-portfolio.vercel.app/project](https://niraj-portfolio.vercel.app/project)
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript and React JS**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, React JS, Ruby on Rails and Tailwind CSS**
 
 - 📫 How to reach me **nirajtiwari199731@gmail.com**
 
