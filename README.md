@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Niraj Kumar Tiwari, a passionate front-end developer.</h1>
+<h1 align="center">Hi 👋, I'm Niraj Kumar Tiwari, a passionate full stack developer.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [UnderBelly](https://github.com/NirajKrTiwari/UBProject)
 
 - 👨‍💻 All of my projects are available at [https://niraj-portfolio.vercel.app/project](https://niraj-portfolio.vercel.app/project)
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, React JS, Ruby on Rails and Tailwind CSS**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, React JS, Ruby on Rails, Tailwind CSS, Bootstrap, MySQL, Git, ChatGPT, Copilot, Shopify Liquid, RestAPIs, GraphQL and PostgreSQL**
 
 - 📫 How to reach me **nirajtiwari199731@gmail.com**
 
