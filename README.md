@@ -57,9 +57,9 @@
   <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   </a>
-<a href="https://postmarkapp.com/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/37223377/231505816-e5cb6782-420d-44d5-91a2-4fcab81a5c0f.png" alt="postmark" width="40" height="40" style="border-radius: 6px"/>
-</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
 
 
