@@ -117,11 +117,17 @@ const niraj = {
 
 <br/>
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <a href="https://github.com/NirajKrTiwari">
-    <img src="https://grass-graph.moshimo.works/images/NirajKrTiwari.png?background=000000" alt="Niraj's GitHub contribution graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajKrTiwari&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true" alt="Niraj's GitHub activity graph" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NirajKrTiwari">
+    <img src="https://streak-stats.demolab.com/?user=NirajKrTiwari&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
   </a>
 </p>
 
