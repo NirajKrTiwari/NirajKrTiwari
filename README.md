@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Birdchime+Technology;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Java+%7C+Spring+Boot+%7C+Rails+%7C+React;Microservices+%7C+Cloud+%7C+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Birdchime+Technologies;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Java+%7C+Spring+Boot+%7C+Rails+%7C+React;Microservices+%7C+Cloud+%7C+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 ```typescript
 const niraj = {
   role:        "Software Engineer",
-  company:     "Birdchime Technology LLP",
+  company:     "Birdchime Technologies LLP",
   location:    "India 🇮🇳",
   currentWork: "UnderBelly",
   focus:       ["Microservices", "System Design", "Distributed Systems"],
