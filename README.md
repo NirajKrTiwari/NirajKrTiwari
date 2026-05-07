@@ -114,42 +114,6 @@ const niraj = {
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NirajKrTiwari&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NirajKrTiwari&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajKrTiwari&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NirajKrTiwari&theme=github_dark" />
-</p>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/NirajKrTiwari">
-    <img src="https://ghchart.rshah.org/58a6ff/NirajKrTiwari" alt="Niraj's GitHub Contribution Chart" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajKrTiwari&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
-</p>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NirajKrTiwari/NirajKrTiwari/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<br/>
-
 ## 🏆 Trophies
 
 <p align="center">
