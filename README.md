@@ -62,6 +62,9 @@ const niraj = {
     <td align="center"><b>Frameworks</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=spring,rails,react,nextjs,tailwind,bootstrap" />
+      <br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -111,6 +114,16 @@ const niraj = {
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/NirajKrTiwari">
+    <img src="https://grass-graph.moshimo.works/images/NirajKrTiwari.png?background=000000" alt="Niraj's GitHub contribution graph" />
+  </a>
+</p>
 
 <br/>
 
