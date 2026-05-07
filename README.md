@@ -1,131 +1,167 @@
-<div align="center">
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Niraj%20Kumar%20Tiwari&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
 
-# Hi 👋, I'm Niraj Kumar Tiwari
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Birdchime+Technology;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Java+%7C+Spring+Boot+%7C+Rails+%7C+React;Microservices+%7C+Cloud+%7C+DevOps+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-### Software Engineer @ Birdchime Technology LLP
-**Full-Stack Developer · India 🇮🇳**
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://niraj-portfolio.vercel.app/project"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://niraj-portfolio.vercel.app/resume"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nirajkumartiwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/nirajkumar199731/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/nirajkumartiwar1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="mailto:nirajtiwari199731@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://niraj-portfolio.vercel.app/project)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readthedocs&logoColor=white)](https://niraj-portfolio.vercel.app/resume)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajkumartiwari/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nirajkumar199731/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nirajkumartiwar1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirajtiwari199731@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/NirajKrTiwari?label=Followers&style=for-the-badge&color=58a6ff" />
+</p>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=NirajKrTiwari&icon=0&color=0)
+<br/>
 
-</div>
+## 🧑‍💻 About Me
 
----
-
-## 🚀 About Me
-
-```yaml
-name:          Niraj Kumar Tiwari
-role:          Software Engineer
-company:       Birdchime Technology LLP
-location:      India
-current_work:  UnderBelly (https://github.com/NirajKrTiwari/UBProject)
-ask_me_about:  [Java, Spring Boot, Ruby on Rails, React, Microservices, Shopify]
-reach_me:      nirajtiwari199731@gmail.com
+```typescript
+const niraj = {
+  role:        "Software Engineer",
+  company:     "Birdchime Technology LLP",
+  location:    "India 🇮🇳",
+  currentWork: "UnderBelly",
+  focus:       ["Microservices", "System Design", "Distributed Systems"],
+  askMeAbout:  ["Java", "Spring Boot", "Rails", "React", "Shopify"],
+  email:       "nirajtiwari199731@gmail.com",
+  motto:       "Build it once. Build it right."
+};
 ```
 
-- 🔭 Currently building **[UnderBelly](https://github.com/NirajKrTiwari/UBProject)**
-- 🌱 Deep diving into **Microservices, Distributed Systems, System Design**
-- 👨‍💻 All projects → **[niraj-portfolio.vercel.app/project](https://niraj-portfolio.vercel.app/project)**
-- 💬 Ask me about **Java, Spring Boot, Rails, React, Microservices, Shopify Liquid**
-- 📫 Reach me → **nirajtiwari199731@gmail.com**
+- 🔭 Building → **[UnderBelly](https://github.com/NirajKrTiwari/UBProject)**
+- 🌱 Learning → **Microservices · Distributed Systems · System Design**
+- 👨‍💻 Projects → **[niraj-portfolio.vercel.app/project](https://niraj-portfolio.vercel.app/project)**
+- 📄 Resume → **[niraj-portfolio.vercel.app/resume](https://niraj-portfolio.vercel.app/resume)**
+- 📫 Email → **nirajtiwari199731@gmail.com**
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,ruby,js,html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,rails,react,nextjs,tailwind,bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,heroku,git,github" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Testing & API</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postman" />
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Architecture</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Monolithic-4ECDC4?style=for-the-badge&logo=server&logoColor=white" />
+      <img src="https://img.shields.io/badge/MVC-264de4?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/SOLID-2c3e50?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+      <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Architecture & Patterns
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Monolithic](https://img.shields.io/badge/Monolithic-4ECDC4?style=for-the-badge&logo=server&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Testing
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Platforms & Tools
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NirajKrTiwari&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NirajKrTiwari&theme=github-dark&hide_border=true" />
+</p>
 
-![Niraj's Stats](https://github-readme-stats.vercel.app/api?username=NirajKrTiwari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NirajKrTiwari&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajKrTiwari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajKrTiwari&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NirajKrTiwari&theme=github_dark" />
+</p>
 
-</div>
+<br/>
 
-### 🏆 Top Contributed Repos
+## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/NirajKrTiwari">
+    <img src="https://ghchart.rshah.org/58a6ff/NirajKrTiwari" alt="Niraj's GitHub Contribution Chart" />
+  </a>
+</p>
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=NirajKrTiwari&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajKrTiwari&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
+</p>
 
-</div>
+<br/>
 
-### 🔥 Activity Graph
+## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NirajKrTiwari/NirajKrTiwari/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirajKrTiwari&theme=tokyo-night&hide_border=true&area=true)
+<br/>
 
-</div>
+## 🏆 Trophies
 
-### 🏅 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NirajKrTiwari&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</p>
 
-<div align="center">
+<br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=NirajKrTiwari&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" alt="footer" />
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Code is poetry; bugs are typos."*
-
-⭐ From [NirajKrTiwari](https://github.com/NirajKrTiwari)
-
-</div>
+<p align="center">
+  <i>⭐ From <a href="https://github.com/NirajKrTiwari">NirajKrTiwari</a> with ❤️</i>
+</p>
